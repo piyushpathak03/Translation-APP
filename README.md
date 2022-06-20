@@ -1,6 +1,6 @@
 # Translation-App
 
-A Complete Translation APP
+A Complete Translation APP which translate the language.
 
 ## About me
 
